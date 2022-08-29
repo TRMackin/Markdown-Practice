@@ -1,1 +1,1 @@
-# Markdown-Practice
+# MarkdownPractice
